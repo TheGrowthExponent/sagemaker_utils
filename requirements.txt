@@ -1,1 +1,4 @@
-boto3==1.26.10
+awscli
+boto3==1.26.131
+sagemaker
+sagemaker-experiments
